@@ -11,7 +11,7 @@ I am a student of **Information Systems** and a technologist in **Systems Analys
 <br>- Software development
 <br>- Data analysis
 <br>- UI/UX Design<br>
-<br>🌱 **Currently learning:** React and Azure.<br>
+<br>🌱 **Currently learning:** Vue and TypeScript.<br>
 
 ###
 
